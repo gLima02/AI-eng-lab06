@@ -1,3 +1,15 @@
+# RESULTADO 
+
+## RM93401 --> 9 + 3 + 4 + 0 + 1 = 17 = 1+7 = 8 == VÍDEO q1B
+
+![image](https://github.com/user-attachments/assets/5d200b3b-3bdb-41df-b491-18cc76935a6d)
+
+![image](https://github.com/user-attachments/assets/93dc41d8-4a99-4dbc-aca9-2a0415d11708)
+
+![image](https://github.com/user-attachments/assets/aa00c7f5-58e7-4df5-a6ce-220be3275df0)
+
+
+
 # AI ENGINEERING, COGNITIVE AND SEMANTIC COMPUTATION & IOT
 
 ## Processamento Digital de Imagens
